@@ -1,2 +1,3 @@
-# hoot679-s-club-penguin-blog
-just my blog for cppscreator.com
+# What's New?
+There is now a blog, so you can see what's new!
+New Start Screen!
